@@ -11,6 +11,10 @@ header, .backimage {
 	background-image: url("../images/the-flatiron-building.png");
 }
 
+h1, h2, h3 {
+	font-weight: bold;
+}
+
 h1 {
 	font-size: 70px;
 }
